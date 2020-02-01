@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:Horhik/WS-messanger-client.git
+[submodule "server"]
+	path = server
+	url = git@github.com:Horhik/WS-messanger-server.git
